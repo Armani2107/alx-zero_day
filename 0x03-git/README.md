@@ -1,1 +1,1 @@
-almost there
+Update README file getting started
